@@ -1,0 +1,122 @@
+﻿using System;
+using System.Collections.Generic;
+
+#nullable disable
+
+namespace Proactive.Models.Maguire
+{
+    public partial class ExtensionsDatum
+    {
+        public Guid EdId { get; set; }
+        public Guid ObjId { get; set; }
+        public string Type { get; set; }
+        public string Subtype { get; set; }
+        public string Parenttype { get; set; }
+        public bool? EdDeleted { get; set; }
+        public DateTime? CreatedDate { get; set; }
+        public string CreatedBy { get; set; }
+        public DateTime? UpdatedDate { get; set; }
+        public string UpdatedBy { get; set; }
+        public DateTime? DeletedDate { get; set; }
+        public string DeletedBy { get; set; }
+        public string EdUd1Text { get; set; }
+        public string EdUd2Text { get; set; }
+        public string EdUd3Text { get; set; }
+        public string EdUd4Text { get; set; }
+        public string EdUd5Text { get; set; }
+        public string EdUd6Text { get; set; }
+        public string EdUd7Text { get; set; }
+        public string EdUd8Text { get; set; }
+        public string EdUd9Text { get; set; }
+        public string EdUd10Text { get; set; }
+        public DateTime? EdUd1Date { get; set; }
+        public DateTime? EdUd2Date { get; set; }
+        public DateTime? EdUd3Date { get; set; }
+        public DateTime? EdUd4Date { get; set; }
+        public DateTime? EdUd5Date { get; set; }
+        public DateTime? EdUd6Date { get; set; }
+        public DateTime? EdUd7Date { get; set; }
+        public DateTime? EdUd8Date { get; set; }
+        public DateTime? EdUd9Date { get; set; }
+        public DateTime? EdUd10Date { get; set; }
+        public bool? EdUd1Bit { get; set; }
+        public bool? EdUd2Bit { get; set; }
+        public bool? EdUd3Bit { get; set; }
+        public bool? EdUd4Bit { get; set; }
+        public bool? EdUd5Bit { get; set; }
+        public bool? EdUd6Bit { get; set; }
+        public bool? EdUd7Bit { get; set; }
+        public bool? EdUd8Bit { get; set; }
+        public bool? EdUd9Bit { get; set; }
+        public bool? EdUd10Bit { get; set; }
+        public Guid? EdUd1Id { get; set; }
+        public Guid? EdUd2Id { get; set; }
+        public Guid? EdUd3Id { get; set; }
+        public Guid? EdUd4Id { get; set; }
+        public Guid? EdUd5Id { get; set; }
+        public Guid? EdUd6Id { get; set; }
+        public Guid? EdUd7Id { get; set; }
+        public Guid? EdUd8Id { get; set; }
+        public Guid? EdUd9Id { get; set; }
+        public Guid? EdUd10Id { get; set; }
+        public decimal? EdUd1Numeric { get; set; }
+        public decimal? EdUd2Numeric { get; set; }
+        public decimal? EdUd3Numeric { get; set; }
+        public decimal? EdUd4Numeric { get; set; }
+        public decimal? EdUd5Numeric { get; set; }
+        public decimal? EdUd6Numeric { get; set; }
+        public decimal? EdUd7Numeric { get; set; }
+        public decimal? EdUd8Numeric { get; set; }
+        public decimal? EdUd9Numeric { get; set; }
+        public decimal? EdUd10Numeric { get; set; }
+        public string EdUd11Text { get; set; }
+        public string EdUd12Text { get; set; }
+        public string EdUd13Text { get; set; }
+        public string EdUd14Text { get; set; }
+        public string EdUd15Text { get; set; }
+        public string EdUd16Text { get; set; }
+        public string EdUd17Text { get; set; }
+        public string EdUd18Text { get; set; }
+        public string EdUd19Text { get; set; }
+        public string EdUd20Text { get; set; }
+        public DateTime? EdUd11Date { get; set; }
+        public DateTime? EdUd12Date { get; set; }
+        public DateTime? EdUd13Date { get; set; }
+        public DateTime? EdUd14Date { get; set; }
+        public DateTime? EdUd15Date { get; set; }
+        public DateTime? EdUd16Date { get; set; }
+        public DateTime? EdUd17Date { get; set; }
+        public DateTime? EdUd18Date { get; set; }
+        public DateTime? EdUd19Date { get; set; }
+        public DateTime? EdUd20Date { get; set; }
+        public bool? EdUd11Bit { get; set; }
+        public bool? EdUd12Bit { get; set; }
+        public bool? EdUd13Bit { get; set; }
+        public bool? EdUd14Bit { get; set; }
+        public bool? EdUd15Bit { get; set; }
+        public bool? EdUd16Bit { get; set; }
+        public bool? EdUd17Bit { get; set; }
+        public bool? EdUd18Bit { get; set; }
+        public bool? EdUd19Bit { get; set; }
+        public bool? EdUd20Bit { get; set; }
+        public Guid? EdUd11Id { get; set; }
+        public Guid? EdUd12Id { get; set; }
+        public Guid? EdUd13Id { get; set; }
+        public Guid? EdUd14Id { get; set; }
+        public Guid? EdUd15Id { get; set; }
+        public Guid? EdUd16Id { get; set; }
+        public Guid? EdUd17Id { get; set; }
+        public Guid? EdUd18Id { get; set; }
+        public Guid? EdUd19Id { get; set; }
+        public Guid? EdUd20Id { get; set; }
+        public decimal? EdUd11Numeric { get; set; }
+        public decimal? EdUd12Numeric { get; set; }
+        public decimal? EdUd13Numeric { get; set; }
+        public decimal? EdUd14Numeric { get; set; }
+        public decimal? EdUd15Numeric { get; set; }
+        public decimal? EdUd16Numeric { get; set; }
+        public decimal? EdUd17Numeric { get; set; }
+        public decimal? EdUd18Numeric { get; set; }
+        public decimal? EdUd20Numeric { get; set; }
+    }
+}
